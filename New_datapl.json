@@ -3,7 +3,7 @@
      
     {
       "code": "Nasional",
-      "name": "H O M E",
+      "name": "Nasional",
       "url": "https://raw.githubusercontent.com/rohmanabdu/safiraa/refs/heads/main/qiaa.m3u",
       "status": true,
       "sortn": "1"
@@ -11,14 +11,14 @@
      
     {
       "code": "Event",
-      "name": "EVENT TEST",
+      "name": "Event",
       "url": "https://mangasep.s.gy/wpE",
       "status": true,
       "sortn": "2"
     },
     {
       "code": "TEST",
-      "name": "HEY TAYO",
+      "name": "TEST",
       "url": "https://bit.ly/STARNETbm2",
       "status": true,
       "sortn": "2"
