@@ -5,7 +5,7 @@
         "mode": "single_code",
         "scope": "all_device",
         "code": "QIATVHE",
-        "enabled": false,
+        "enabled": true,
         "expiry": null,
         "max_device": 0,
         "device_lock": false,
