@@ -1,11 +1,11 @@
 {
     "status": "active",
-    "app_name": "BandelTV",
+    "app_name": "QiaTV",
     "activation": {
         "mode": "single_code",
         "scope": "all_device",
         "code": "QIATVHE",
-        "enabled": true,
+        "enabled": false,
         "expiry": null,
         "max_device": 0,
         "device_lock": false,
